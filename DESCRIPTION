@@ -1,8 +1,8 @@
 Package: optimus
 Type: Package
 Title: Model Based Diagnostics for Multivariate Cluster Analysis
-Version: 0.1.0
-Date: 2017-03-24
+Version: 0.2.0
+Date: 2018-01-16
 Authors@R: person("Mitchell", "Lyons", 
                   email = "mitchell.lyons@gmail.com",
                   role = c("aut", "cre"))
@@ -26,7 +26,7 @@ RoxygenNote: 6.0.1
 Suggests: testthat, knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2017-03-24 06:56:28 UTC; Mitch
+Packaged: 2018-01-16 22:18:22 UTC; Mitch
 Author: Mitchell Lyons [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-03-24 13:26:40 UTC
+Date/Publication: 2018-01-16 22:32:40 UTC
